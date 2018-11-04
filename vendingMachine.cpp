@@ -80,21 +80,27 @@ int main(){
         switch(choice){
             case 0:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 1:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 2:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 3:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 4:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 5:
                 getDrink(total, drinks, choice);
+                total = 0.0;
                 break;
             case 6:
                 std::cout << "Have a nice day!";
